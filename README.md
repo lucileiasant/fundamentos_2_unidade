@@ -12,6 +12,6 @@ if(true) {
 //Caso não for informada uma expressão ou um valor boolean diretamente, ele fará um Type Coercion (Correção do tipo)
 //Ex.
 if(0) ( //Nessa linha ela ira fazer um correção do 0 para um boolean (verdadeiiro ou falso), nesse caso 0 será falso
-]
+}
 ```
 
